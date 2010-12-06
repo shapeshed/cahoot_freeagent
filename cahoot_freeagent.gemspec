@@ -20,4 +20,5 @@ Gem::Specification.new do |s|
   s.require_paths = ["lib"]
   s.add_dependency "thor"
   s.add_dependency "fastercsv"
+  s.add_dependency "nokogiri"
 end
